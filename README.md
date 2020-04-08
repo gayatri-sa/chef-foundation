@@ -1,4 +1,3 @@
 # workstation2
 
-TODO: Enter the cookbook description here.
-
+Configure workstations
